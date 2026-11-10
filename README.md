@@ -150,8 +150,8 @@ Las predicciones representan estimaciones basadas en información histórica y n
 ---
 
 ## Autor
+**Santana Robledo**
 
-**Josué Santana Robledo**
 Ingeniero Mecatrónico | Estudiante de Maestría en Ciencias de la Robótica e Inteligencia Artificial.
 
 Intereses profesionales:
